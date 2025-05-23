@@ -1,4 +1,4 @@
-# BlinkIT Grocery Sales Analysis - Code README
+# BlinkIT Grocery Sales Analysis 
 
 ## Project Overview
 
@@ -23,21 +23,3 @@ This repository contains the raw data, detailed analysis report, and code/script
   An Excel VBA macro that automates the creation of PivotTables, charts, and summary reports directly inside the Excel workbook. It helps users quickly generate interactive dashboards and visualizations without manually setting up Excel features.
 
 ---
-
-## Getting Started
-
-### Python Script Setup and Usage
-
-This Python script is ideal for users who want to perform analysis outside Excel, automate repeated analysis tasks, or integrate this data into larger Python-based workflows.
-
-#### Requirements
-
-- Python 3.6 or newer
-- Python packages: `pandas` and `openpyxl`
-
-#### Installation
-
-Run the following command in your terminal or command prompt to install dependencies:
-
-```bash
-pip install pandas openpyxl
